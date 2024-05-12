@@ -1,3 +1,10 @@
+# Changes by Me
+
+- Adding in Amazon SES plugin during the docker build
+- Building version ^5.0 of Mautic (not -dev)
+
+----
+
 # Mautic Docker image and examples
 
 > [!NOTE]
